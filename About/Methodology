@@ -1,1 +1,176 @@
+Each stage builds upon the previous one, creating a continuous process of technical growth and long-term knowledge retention.
 
+---
+
+Stage 1 — Learn,
+Every topic begins with learning the fundamentals.
+
+Key questions include:
+
+What is the technology?,
+Why is it important?,
+Where is it commonly used?,
+What security challenges does it introduce?,
+
+A strong understanding of the basics is essential before moving to defensive techniques.
+
+---
+:joy:
+Click to react
+:heart:
+Click to react
+:weary:
+Click to react
+Add Reaction
+Reply
+Forward
+More
+[4:35 PM]Thursday, July 2, 2026 4:35 PM
+Stage 2 — Understand,
+Study how the technology works internally.
+
+This includes understanding:
+
+System architecture,
+Authentication and authorization,
+Network communication,
+Logging mechanisms,
+Security controls,
+Common attack surfaces,
+
+Understanding systems is the foundation of effective threat detection.
+
+---
+
+Stage 3 — Practice,
+Reinforce theoretical knowledge through hands-on experience.
+
+Practice includes:
+
+Home labs,
+Virtual machines,
+Windows and Linux environments,
+Active Directory labs,
+SIEM platforms,
+Detection engineering exercises,
+Threat hunting scenarios,
+DFIR investigations,
+
+Hands-on experimentation transforms theory into practical skills.
+
+---
+
+Stage 4 — Analyze,
+After every exercise or investigation, evaluate:
+
+What happened?,
+Why did it happen?,
+Which indicators were generated?,
+Which logs were available?,
+Which security controls succeeded or failed?,
+How could detection be improved?,
+
+Analysis is the bridge between technical knowledge and operational security.
+
+---
+
+Stage 5 — Detect,
+Develop the ability to identify malicious activity through evidence.
+
+This includes working with:
+
+Windows Event Logs,
+Sysmon,
+SIEM platforms,
+Sigma Rules,
+YARA Rules,
+KQL,
+SPL,
+MITRE ATT&CK mappings,
+
+The objective is to understand attacker behavior and translate it into reliable detection logic.
+
+---
+
+Stage 6 — Investigate,
+Every alert deserves context.
+
+During investigations, I focus on:
+[4:35 PM]Thursday, July 2, 2026 4:35 PM
+Building attack timelines,
+Identifying Indicators of Compromise (IOCs),
+Understanding attacker techniques,
+Assessing the scope of impact,
+Determining root cause,
+Supporting incident response activities,
+
+Investigation is driven by evidence, not assumptions.
+
+---
+
+Stage 7 — Document,
+Every topic and practical exercise is documented using a structured approach.
+
+Documentation typically includes:
+
+Overview,
+Core Concepts,
+Technical Explanation,
+Detection Opportunities,
+Defensive Strategies,
+Practical Examples,
+Key Takeaways,
+References,
+
+Well-organized documentation reinforces learning and serves as a long-term technical reference.
+
+---
+
+Stage 8 — Improve,
+Learning never stops.
+
+Knowledge is continuously refined by:
+
+Reviewing previous notes,
+Updating documentation,
+Studying new attack techniques,
+Improving detection logic,
+Expanding practical labs,
+Learning from real-world incidents,
+
+Continuous improvement is an essential part of becoming an effective defender.
+
+---
+
+Guiding Principles,
+The following principles guide every project in this repository:
+
+Understand systems before defending them.,
+Focus on methodology rather than memorization.,
+Learn by building and practicing.,
+Base decisions on evidence and analysis.,
+Think like an attacker to defend like a professional.,
+Prioritize detection, visibility, and continuous improvement.,
+Treat documentation as an essential part of the learning process.,
+Never stop learning.,
+
+---
+
+Final Note,
+Blue Teaming is more than monitoring alerts or using security tools.
+
+It is the discipline of understanding systems, detecting adversary behavior, investigating incidents, strengthening defenses, and continuously improving an organization's security posture.
+
+This repository reflects my ongoing journey toward becoming a skilled cybersecurity professional through structured learning, practical experience, and knowledge sharing.
+:joy:
+Click to react
+:heart:
+Click to react
+:weary:
+Click to react
+Add Reaction
+Reply
+Forward
+More
+
+Message @Dino
