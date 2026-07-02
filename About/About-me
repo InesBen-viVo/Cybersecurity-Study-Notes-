@@ -1,16 +1,16 @@
-# About Me
+# 👋 About Me
 
-I am a Cybersecurity enthusiast with a strong focus on **Blue Team Operations**, dedicated to understanding how modern threats operate and how organizations can effectively **detect, investigate, and respond** to security incidents.
+I am a **Cybersecurity Enthusiast** with a strong focus on **Blue Team Operations**, dedicated to understanding how modern threats operate and how organizations can effectively detect, investigate, and respond to security incidents.
 
-My interests span across **Security Operations Center (SOC) workflows**, **Detection Engineering**, **Threat Hunting**, **Incident Response**, **Digital Forensics (DFIR)**, **Windows and Linux Security**, **Active Directory**, **SIEM platforms**, **Security Automation**, and **Cloud Security**.
+My interests span across Security Operations Center (SOC) workflows, Detection Engineering, Threat Hunting, Incident Response, Digital Forensics (DFIR), Windows and Linux Security, Active Directory, SIEM platforms, Security Automation, and Cloud Security.
 
-I am passionate about building practical cybersecurity knowledge through continuous learning, hands-on labs, technical documentation, and real-world methodologies. I enjoy transforming complex security concepts into structured, easy-to-understand resources that can support students, analysts, and cybersecurity professionals.
+I am passionate about building practical cybersecurity knowledge through continuous learning, hands-on labs, technical documentation, and real-world methodologies. I enjoy transforming complex security concepts into structured, easy-to-understand resources that support students, analysts, and cybersecurity professionals.
 
-My goal is to continuously improve my technical skills while contributing high-quality educational content to the cybersecurity community.
+My goal is to continuously improve my technical expertise while contributing high-quality educational content to the cybersecurity community.
 
 ---
 
-# Core Interests
+# 🎯 Core Interests
 
 - Blue Team Operations
 - Security Operations Center (SOC)
@@ -31,13 +31,15 @@ My goal is to continuously improve my technical skills while contributing high-q
 - Network Security
 - Security Monitoring
 - Defensive Security
-- Scripting with Python, PowerShell, and Bash
+- Python Scripting
+- PowerShell Scripting
+- Bash Scripting
 
 ---
 
-# Current Focus
+# 🚀 Current Focus
 
-I am currently focused on expanding my expertise in:
+I am currently expanding my expertise in:
 
 - Detection Engineering and Detection-as-Code
 - SIEM Platforms and Log Management
@@ -48,40 +50,44 @@ I am currently focused on expanding my expertise in:
 - Cloud Security
 - Security Automation
 - MITRE ATT&CK Mapping
-- Sigma, YARA, KQL, and SPL
+- Sigma Rules
+- YARA Rules
+- Kusto Query Language (KQL)
+- Splunk Processing Language (SPL)
 - Building Practical Cybersecurity Labs
 - Technical Documentation and Knowledge Management
 
 ---
 
-# Philosophy
+# 🧠 Philosophy
 
-I believe that cybersecurity is built on three fundamental pillars:
+I believe that cybersecurity is built on three fundamental principles:
 
-1. Continuous Learning
-2. Practical Experience
-3. Knowledge Sharing
+- Continuous Learning
+- Practical Experience
+- Knowledge Sharing
 
-Every project I work on is designed to strengthen technical understanding, improve defensive capabilities, and provide valuable learning resources for the cybersecurity community.
+Every project I work on is designed to strengthen technical understanding, improve defensive capabilities, and create valuable learning resources for the cybersecurity community.
 
 ---
 
-# Mission
+# 🎯 Mission
 
 My objective is to build a comprehensive cybersecurity knowledge base that combines:
 
 - Security Theory
 - Practical Methodologies
 - Detection Strategies
-- Hands-on Labs
-- Technical References
+- Hands-On Labs
+- Technical Documentation
+- Research Notes
 - Defensive Security Practices
 
 into a single organized resource that supports continuous learning and professional development.
 
 ---
 
-# Areas of Continuous Learning
+# 📚 Areas of Continuous Learning
 
 - Detection Engineering
 - Threat Hunting
@@ -96,46 +102,74 @@ into a single organized resource that supports continuous learning and professio
 
 ---
 
-# Technical Domains
-
-## Security Operations
-
-- Security Monitoring
-- Alert Triage
-- Incident Investigation
-- Detection Development
-- Log Analysis
-- Threat Intelligence
-
-## Defensive Security
-
-- Threat Hunting
-- Incident Response
-- Digital Forensics
-- Malware Analysis
-- Purple Teaming
-- Security Automation
-
-## Infrastructure Security
+# 🛠️ Technologies & Frameworks
 
 - Windows Security
 - Linux Security
 - Active Directory
-- Network Security
-- Cloud Security
-- Web Security
-
-## Development & Automation
-
+- SIEM Platforms
+- Microsoft Defender Ecosystem
+- Splunk
+- Elastic Stack
+- Sigma
+- YARA
+- Sysmon
+- Wireshark
+- Suricata
+- Zeek
+- MITRE ATT&CK
 - Python
 - PowerShell
 - Bash
-- Detection-as-Code
-- Security Tooling
-- Workflow Automation
+- Git & GitHub
 
 ---
 
-# Guiding Principle
+# 📈 Current Learning Path
 
-> *"The strongest defense begins with understanding how attackers think, how systems behave, and how defenders continuously adapt."*
+```text
+Networking Fundamentals
+        ↓
+System Administration
+        ↓
+Windows & Linux Security
+        ↓
+SOC Operations
+        ↓
+Detection Engineering
+        ↓
+Threat Hunting
+        ↓
+Incident Response
+        ↓
+Digital Forensics
+        ↓
+Malware Analysis
+        ↓
+Cloud Security
+        ↓
+Security Automation
+```
+
+---
+
+# 💡 Guiding Principle
+
+> "The strongest defense begins with understanding how attackers think, how systems behave, and how defenders continuously adapt."
+
+---
+
+## 📫 Connect & Collaborate
+
+I am always interested in discussing:
+
+- Cybersecurity
+- Detection Engineering
+- Threat Hunting
+- DFIR
+- Security Research
+- Blue Team Methodologies
+- Knowledge Management
+- Technical Documentation
+
+If it helps defenders learn, investigate, detect, or improve security operations, I'm interested.
